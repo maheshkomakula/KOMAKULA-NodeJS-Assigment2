@@ -2,6 +2,9 @@
   "name": "nodejs-assignment2",
   "version": "1.0.0",
   "main": "exercise1.js",
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
     "express": "^4.19.2"
   }
